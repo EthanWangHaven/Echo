@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Echo 声波：5 根圆头黑色竖条（对称波形，中间最高），白底极简黑白风。
+     条宽 5.5dp，间距 9dp，视觉高 20/33/44，全部垂直居中于 54。
+     线段端点已按 strokeLineCap=round 收进 2.75dp，保证视觉高度精确。 -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:pathData="M36,46.75 V61.25 M45,40.25 V67.75 M54,34.75 V73.25 M63,40.25 V67.75 M72,46.75 V61.25"
+        android:strokeColor="#000000"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round" />
+</vector>

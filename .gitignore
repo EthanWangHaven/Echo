@@ -1,0 +1,27 @@
+# Build outputs
+build/
+.gradle/
+.kotlin/
+*.apk
+
+# Local configuration
+local.properties
+gradle.properties
+
+# Temporary files
+临时文件/
+
+# Python
+__pycache__/
+*.pyc
+backend/__pycache__/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# 签名密钥（不入库）
+*.jks
+*.keystore
+keystore.properties
